@@ -35,7 +35,7 @@ function Person(person) {
 
 const fredrick = new Person('Fredrick');
 
-console.log(fredrick.name)
+// console.log(fredrick.name)
 
 // Principle 4
 
