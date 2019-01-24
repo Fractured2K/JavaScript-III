@@ -4,7 +4,7 @@
  * 1. Window binding is when the `this` keyword has nothing being binded to it. So it binds to the window object by default.
  * 2. Implicit binding is when the `this` keyword is bound to object left of the invoked method.
  * 3. New binding is when the `this` keyword is bound specifically to the object instance created and returned by the constructor function.
- * 4. Explicit binding is when the `this` keyword is being bound explicity through the .call(), .apply(), or .bind() methods.
+ * 4. Explicit binding is when the `this` keyword is being bound explicitly through the .call(), .apply(), or .bind() methods.
  *
  * write out a code example of each explanation above
  */
